@@ -26,6 +26,17 @@ This is also my first object-oriented programming project. The goal was to pract
 - SQLite
 - Object-Oriented Programming
 
+## Requirements
+
+Before running the application, make sure the following requirements are met:
+
+- Python 3.12+
+- Tkinter
+- SQLite
+- Arial font
+
+The application uses a Persian graphical user interface. For the intended appearance, make sure the Arial font is available on your system.
+
 ## Background
 
 The contractor previously used data stored in Visual FoxPro 9. Since the old system was not suitable for the new workflow and desired interface, this application was created as a modern and simpler replacement using Python.
